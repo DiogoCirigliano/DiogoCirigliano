@@ -1,36 +1,35 @@
-<h2 align="center">Hello world</h2>
+<h2 align="center">Portfólio</h2>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DiogoCirigliano&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoCirigliano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=DiogoCirigliano&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoCirigliano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ciriglianodiogo_dev/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/christian-oliveira-925532257/](https://www.linkedin.com/in/diogo-cirigliano-150487296/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-cirigliano-150487296/)
+## Quem sou:
 
-<h3 align="left">Quem sou:</h3>
-
-###
 <details>
 <summary> Me chamo Diogo F.Cirigliano, estudei ADS por 2 anos completos na ETEC Aristóteles Ferreira (2022/2023). Faltando apenas o 3° para concluir.</summary>
  
    - No final do segundo ano me mudei para a Itália e desde então estudo por conta própria utilizando como base o curso FullStack da DankiCode. Estou em constante aprendizado e evolução na área!  
 </details>
 
-###
-
 - Desenvolvedor FullStack
 
 - Busco oportunidades de emprego remoto.
 
-    
+<h3>Portfólio:</h3>
+
+- [Gerenciador de estoque desenvolvido em C# e ASP.NET](https://github.com/DiogoCirigliano/crud_asp.net_c-)
+
 ###
 
-<h3 align="left">Meu GitHub:</h3>
+<h3>Meu GitHub</h3>
 
 ###
 
