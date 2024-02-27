@@ -16,7 +16,7 @@
 <details>
 <summary> Me chamo Diogo F.Cirigliano, estudei ADS por 2 anos completos na ETEC Aristóteles Ferreira (2022/2023). Faltando apenas o 3° para concluir.</summary>
  
-   - No final do segundo ano me mudei para a Itália e desde então estudo por conta própria utilizando como base o curso FullStack da DankiCode. Estou em constante aprendizado e evolução na área!  
+   No final do segundo ano me mudei para a Itália e desde então estudo por conta própria utilizando como base o curso FullStack da DankiCode. Estou em constante aprendizado e evolução na área!  
 </details>
 
 - Desenvolvedor FullStack
