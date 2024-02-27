@@ -21,7 +21,7 @@
 
 - Futuro desenvolvedor FullStack
 
-- Busco minha primeira oportunidades. Visite meu [Linkedin](https://www.linkedin.com/in/diogo-cirigliano-150487296/)
+- Busco minha primeira oportunidade. Visite meu [Linkedin](https://www.linkedin.com/in/diogo-cirigliano-150487296/)
 
 <h3>Projetos:</h3>
 
