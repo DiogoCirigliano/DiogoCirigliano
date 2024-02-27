@@ -21,7 +21,7 @@
 
 - Futuro desenvolvedor FullStack
 
-- Busco oportunidades de emprego remoto.
+- Busco minha primeira oportunidades. Visite meu [Linkedin](https://www.linkedin.com/in/diogo-cirigliano-150487296/)
 
 <h3>Projetos:</h3>
 
