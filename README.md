@@ -19,7 +19,7 @@
    No final do segundo ano me mudei para a Itália e desde então estudo por conta própria utilizando como base o curso FullStack da DankiCode. Estou em constante aprendizado e evolução na área!  
 </details>
 
-- Desenvolvedor FullStack
+- Futuro desenvolvedor FullStack
 
 - Busco oportunidades de emprego remoto.
 
