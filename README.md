@@ -34,8 +34,7 @@
 ###
 
 - Projetos Acadêmicos
-- Projetos práticos
-- projetos em CRUD e POO
+- projetos CRUD e POO
 - projetos com API
 - minha evolução
 
