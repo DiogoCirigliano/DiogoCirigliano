@@ -23,7 +23,6 @@
 
 <h3>Projetos:</h3>
 
-- [Gerenciador de estoque desenvolvido em C# e ASP.NET](https://github.com/DiogoCirigliano/crud_asp.net_c-)
 
 ###
 
