@@ -3,7 +3,6 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=DiogoCirigliano&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoCirigliano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -14,9 +13,7 @@
 ## Quem sou:
 
 <details>
-<summary> Me chamo Diogo F.Cirigliano, estudei ADS por 2 anos completos na ETEC Aristóteles Ferreira (2022/2023). Faltando apenas o 3° para concluir.</summary>
- 
-   No final do segundo ano me mudei para a Itália e desde então estudo por conta própria. Estou em constante aprendizado e evolução na área!  
+  Olá, sou o Diogo F.Cirigliano tenho 18 anos.
 </details>
 
 - Visite meu [Linkedin](https://www.linkedin.com/in/diogo-cirigliano-150487296/)
